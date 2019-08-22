@@ -1,0 +1,37 @@
+{
+  "products": [
+    {
+      "id": "36672332-929a-4327-942b-4573e38df453",
+      "name": "Bob",
+      "price": 36
+    },
+    {
+      "id": "04d79385-2ae8-44f0-b931-c43daeac89e9",
+      "name": "Bob",
+      "price": 36
+    },
+    {
+      "id": "3de0bef6-ec3d-432f-919d-8be13f78dc94",
+      "name": "Pastel",
+      "price": 2
+    }
+  ],
+  "carts": [
+    {
+      "id": "1",
+      "product": "36672332-929a-4327-942b-4573e38df453"
+    },
+    {
+      "id": "1",
+      "product": "04d79385-2ae8-44f0-b931-c43daeac89e9"
+    },
+    {
+      "id": "2",
+      "product": "04d79385-2ae8-44f0-b931-c43daeac89e9"
+    },
+    {
+      "id": "2",
+      "product": "3de0bef6-ec3d-432f-919d-8be13f78dc94"
+    }
+  ]
+}
